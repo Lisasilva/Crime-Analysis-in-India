@@ -1,4 +1,4 @@
-# Crime-Analysis-in-India
+# Crime Analysis in India
 
 Crime is a behavioural disorderliness which is a result of societal, economical, and 
 environmental factors. Currently, analysis of crime is becoming increasingly 
